@@ -15,7 +15,7 @@ Postoperative delirium is a significant complication in older patients undergoin
 
 ---
 
-## 🏗 Model Architecture
+## Model Architecture
 
 The model utilizes a hybrid input structure to capture the full perioperative context:
 
