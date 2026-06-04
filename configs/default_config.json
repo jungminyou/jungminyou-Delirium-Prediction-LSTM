@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "test_size": 0.3,
+  "val_size_from_temp": 0.5,
+  "timegan_epochs": 500,
+  "lstm_epochs": 300,
+  "batch_size": 32,
+  "tsne_perplexity": 30,
+  "expected_time_steps": 5,
+  "input_data_file": "raw_longitudinal_data.csv",
+  "generated_train_file": "train_augmented.csv",
+  "generated_val_file": "validation_original.csv",
+  "generated_test_file": "test_original.csv",
+  "metrics_occurrence_file": "metrics_occurrence.csv",
+  "metrics_subtype_file": "metrics_subtype.csv",
+  "metrics_severity_file": "metrics_severity.csv",
+  "pairwise_statistics_file": "pairwise_statistics.csv",
+  "js_divergence_file": "js_divergence_results.csv",
+  "distance_metrics_file": "distance_metrics.csv",
+  "fidelity_figure_file": "fidelity_tsne.png"
+}
